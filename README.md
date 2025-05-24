@@ -19,7 +19,7 @@ Structured data tables into charts for optimum analysis and performance measure.
  Built the following visuals for easy understanding of business trend:
  1. Funnel chart for daytype occupancy, revenue/hotel and count of bookers/booking platform.
  2. Guage for count of days.
- 3. Clustered column and bar charts for for total revenue, count of guests/room category and revnue/ booking status (cancelled,checked out and no show).
+ 3. Clustered column and bar charts for for total revenue, count of guests/room category and revenue/ booking status (cancelled,checked out and no show).
  4. Multi row and matrix card showing hotel code and name and hotel category/city.
 ## Insights Extracted
  1. datasets presented had data for the property for 92 days.
